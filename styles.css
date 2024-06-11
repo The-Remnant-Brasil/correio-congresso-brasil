@@ -1,0 +1,174 @@
+* {
+    font-size: 1.1rem;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+button {
+    padding: 0.5em 1em;
+    background-color: #1a169f;
+    border-radius: 1.5em;
+    border: 0;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0a068f;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 4em;
+    padding: 1em;
+}
+
+.politicians-list-wrapper table {
+    width: 100%;
+}
+
+.politicians-list-wrapper td,
+.politicians-list-wrapper th {
+    padding: 0.5em;
+    width: 50%;
+}
+
+th {
+    font-weight: bold;
+}
+
+.politicians-list-wrapper tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+.body-description-table {
+    background-color: white;
+    color: black;
+}
+
+.body-description-table td,
+.body-description-table th {
+    padding: 0.4em;
+}
+
+.body-description-table tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+.content-box {
+    padding: 16px;
+    box-shadow: 1px 1px 3px 0 black;
+}
+
+.politicians-list-wrapper {
+    height: 1080px;
+    overflow-y: scroll;
+}
+
+.error {
+    border: 1px solid red;
+    padding: 16px;
+    color: #ee2222;
+}
+
+.warning {
+    border: 1px solid orange;
+    padding: 16px;
+    color: #fe8d22;
+}
+
+.flowv>*~* {
+    margin-top: 1em;
+}
+
+.examples {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label {
+    font-size: 1.25em;
+}
+
+textarea,
+input,
+label {
+    width: 100%;
+}
+
+.side-info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+}
+
+label {
+    font-weight: bold;
+}
+
+.preview pre {
+    box-shadow: 0 0 3px 0 black;
+    ;
+    padding: 1em;
+}
+
+.ok-message {
+    font-size: 1.5rem;
+}
+
+.example-box {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    margin-bottom: 0.4em;
+}
+
+input,
+textarea {
+    padding: 10px;
+}
+
+input:focus,
+textarea:focus {
+    outline: 1px solid #2a26bf;
+}
+
+textarea {
+    resize: none;
+    overflow: hidden;
+}
+
+.form-inputs textarea {
+    resize: vertical;
+    overflow-y: scroll;
+}
+
+.email-body-explanation {
+    height: 1080px;
+    background: linear-gradient(-45deg, #44a, #338);
+    color: white;
+}
+
+
+.example-box {
+    box-shadow: 0 0 3px 0 white;
+    padding: 0.5em;
+    display: block;
+}
+
+.terminal {
+    border: 1px solid grey;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.terminal-error {
+    color: red;
+}
