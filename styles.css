@@ -1,0 +1,174 @@
+* {
+    font-size: 1.1rem;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border: 1px solid grey;
+    margin: 1.5em auto;
+    width: 90%;
+    top: 0;
+}
+
+header a {
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    font-size: 1.1em;
+    color: grey;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+header ul {
+    display: flex;
+    list-style-type: none;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+button {
+    padding: 0.5em 1em;
+    background-color: #1a169f;
+    border-radius: 1.5em;
+    border: 0;
+    color: white;
+    cursor: pointer;
+}
+
+.button-secondary {
+    background-color: #d42;
+}
+
+button:hover {
+    background-color: #0a068f;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.politicians-list-wrapper table {
+    width: 100%;
+}
+
+th {
+    font-weight: bold;
+}
+
+
+.body-description-table {
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.body-description-table td,
+.body-description-table th {
+    padding: 0.4em;
+}
+
+.body-description-table tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+.body-description-table caption {
+    font-weight: bold;
+}
+
+.content-box {
+    padding: 16px;
+    box-shadow: 1px 1px 3px 0 black;
+}
+
+.error {
+    border: 1px solid red;
+    padding: 16px;
+    color: #ee2222;
+}
+
+.warning {
+    border: 1px solid orange;
+    padding: 16px;
+    color: #fe8d22;
+}
+
+.flowv>*~* {
+    margin-top: 1em;
+}
+
+label {
+    font-size: 1.25em;
+}
+.preview pre {
+    box-shadow: 0 0 3px 0 black;
+    padding: 1em;
+}
+
+.ok-message {
+    font-size: 1.5rem;
+}
+
+.form-group-block input,
+.form-group-block textarea,
+.form-group-block label {
+    width: 100%;
+}
+
+.example-box {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    margin-bottom: 0.4em;
+}
+
+input,
+textarea {
+    padding: 10px;
+}
+
+input:focus,
+textarea:focus {
+    outline: 1px solid #2a26bf;
+}
+
+textarea {
+    resize: none;
+    overflow: hidden;
+}
+
+.form-inputs textarea {
+    resize: vertical;
+    overflow-y: scroll;
+}
+
+.example-box {
+    box-shadow: 0 0 3px 0 black;
+    padding: 0.5em;
+    display: block;
+}
+
+
+.terminal {
+    border: 1px solid grey;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.terminal-error {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}

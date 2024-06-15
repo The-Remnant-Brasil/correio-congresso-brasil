@@ -1,0 +1,13 @@
+{
+    "name": "mateuzz/mail-sender",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mateuzz"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}

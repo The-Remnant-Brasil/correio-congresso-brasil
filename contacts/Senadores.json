@@ -1,0 +1,562 @@
+{
+    "sen.alanrick@senado.leg.br": {
+        "nome": "Alan Rick",
+        "nome_completo": "Alan Rick Miranda",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "AC"
+    },
+    "sen.alessandrovieira@senado.leg.br": {
+        "nome": "Alessandro Vieira",
+        "nome_completo": "Alessandro Vieira",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "SE"
+    },
+    "sen.anapaulalobato@senado.leg.br": {
+        "nome": "Ana Paula Lobato",
+        "nome_completo": "Ana Paula Dias Lobato Nova Alves",
+        "genero": "feminino",
+        "partido": "PDT",
+        "uf": "MA"
+    },
+    "sen.angelocoronel@senado.leg.br": {
+        "nome": "Angelo Coronel",
+        "nome_completo": "Angelo Mario Coronel de Azevedo Martins",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "BA"
+    },
+    "sen.astronautamarcospontes@senado.leg.br": {
+        "nome": "Astronauta Marcos Pontes",
+        "nome_completo": "Marcos Cesar Pontes",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "SP"
+    },
+    "sen.betofaro@senado.leg.br": {
+        "nome": "Beto Faro",
+        "nome_completo": "Jos\u00e9 Roberto Oliveira Faro",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "PA"
+    },
+    "sen.carlosportinho@senado.leg.br": {
+        "nome": "Carlos Portinho",
+        "nome_completo": "Carlos Francisco Portinho",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RJ"
+    },
+    "sen.carlosviana@senado.leg.br": {
+        "nome": "Carlos Viana",
+        "nome_completo": "Carlos Alberto Dias Viana",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "MG"
+    },
+    "sen.chicorodrigues@senado.leg.br": {
+        "nome": "Chico Rodrigues",
+        "nome_completo": "Francisco de Assis Rodrigues",
+        "genero": "masculino",
+        "partido": "PSB",
+        "uf": "RR"
+    },
+    "sen.cidgomes@senado.leg.br": {
+        "nome": "Cid Gomes",
+        "nome_completo": "Cid Ferreira Gomes",
+        "genero": "masculino",
+        "partido": "PSB",
+        "uf": "CE"
+    },
+    "sen.cironogueira@senado.leg.br": {
+        "nome": "Ciro Nogueira",
+        "nome_completo": "Ciro Nogueira Lima Filho",
+        "genero": "masculino",
+        "partido": "PP",
+        "uf": "PI"
+    },
+    "sen.cleitinho@senado.leg.br": {
+        "nome": "Cleitinho",
+        "nome_completo": "Cleiton Gontijo de Azevedo",
+        "genero": "masculino",
+        "partido": "REPUBLICANOS",
+        "uf": "MG"
+    },
+    "sen.confuciomoura@senado.leg.br": {
+        "nome": "Conf\u00facio Moura",
+        "nome_completo": "Conf\u00facio Aires Moura",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "RO"
+    },
+    "sen.damaresalves@senado.leg.br": {
+        "nome": "Damares Alves",
+        "nome_completo": "Damares Regina Alves",
+        "genero": "feminino",
+        "partido": "REPUBLICANOS",
+        "uf": "DF"
+    },
+    "sen.daniellaribeiro@senado.leg.br": {
+        "nome": "Daniella Ribeiro",
+        "nome_completo": "Daniella Velloso Borges Ribeiro",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "PB"
+    },
+    "sen.davialcolumbre@senado.leg.br": {
+        "nome": "Davi Alcolumbre",
+        "nome_completo": "David Samuel Alcolumbre Tobelem",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "AP"
+    },
+    "sen.drhiran@senado.leg.br": {
+        "nome": "Dr. Hiran",
+        "nome_completo": "Hiran Manuel Gon\u00e7alves da Silva",
+        "genero": "masculino",
+        "partido": "PP",
+        "uf": "RR"
+    },
+    "sen.eduardobraga@senado.leg.br": {
+        "nome": "Eduardo Braga",
+        "nome_completo": "Carlos Eduardo de Souza Braga",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "AM"
+    },
+    "sen.eduardogirao@senado.leg.br": {
+        "nome": "Eduardo Gir\u00e3o",
+        "nome_completo": "Luis Eduardo Grangeiro Gir\u00e3o",
+        "genero": "masculino",
+        "partido": "NOVO",
+        "uf": "CE"
+    },
+    "sen.eduardogomes@senado.leg.br": {
+        "nome": "Eduardo Gomes",
+        "nome_completo": "Carlos Eduardo Torres Gomes",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "TO"
+    },
+    "sen.efraimfilho@senado.leg.br": {
+        "nome": "Efraim Filho",
+        "nome_completo": "Efraim de Ara\u00fajo Morais Filho",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "PB"
+    },
+    "sen.elizianegama@senado.leg.br": {
+        "nome": "Eliziane Gama",
+        "nome_completo": "Eliziane Pereira Gama Melo",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "MA"
+    },
+    "sen.esperidiaoamin@senado.leg.br": {
+        "nome": "Esperidi\u00e3o Amin",
+        "nome_completo": "Esperidi\u00e3o Amin Helou Filho",
+        "genero": "masculino",
+        "partido": "PP",
+        "uf": "SC"
+    },
+    "sen.fabianocontarato@senado.leg.br": {
+        "nome": "Fabiano Contarato",
+        "nome_completo": "Fabiano Contarato",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "ES"
+    },
+    "sen.fernandodueire@senado.leg.br": {
+        "nome": "Fernando Dueire",
+        "nome_completo": "Fernando Antonio Caminha Dueire",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "PE"
+    },
+    "sen.fernandofarias@senado.leg.br": {
+        "nome": "Fernando Farias",
+        "nome_completo": "Fernando Lopes de Farias",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "AL"
+    },
+    "sen.flavioarns@senado.leg.br": {
+        "nome": "Fl\u00e1vio Arns",
+        "nome_completo": "Fl\u00e1vio Jos\u00e9 Arns",
+        "genero": "masculino",
+        "partido": "PSB",
+        "uf": "PR"
+    },
+    "sen.flaviobolsonaro@senado.leg.br": {
+        "nome": "Fl\u00e1vio Bolsonaro",
+        "nome_completo": "Fl\u00e1vio Nantes Bolsonaro",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RJ"
+    },
+    "sen.giordano@senado.leg.br": {
+        "nome": "Giordano",
+        "nome_completo": "Alexandre Luiz Giordano",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "SP"
+    },
+    "sen.hamiltonmourao@senado.leg.br": {
+        "nome": "Hamilton Mour\u00e3o",
+        "nome_completo": "Antonio Hamilton Martins Mour\u00e3o",
+        "genero": "masculino",
+        "partido": "REPUBLICANOS",
+        "uf": "RS"
+    },
+    "sen.humbertocosta@senado.leg.br": {
+        "nome": "Humberto Costa",
+        "nome_completo": "Humberto S\u00e9rgio Costa Lima",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "PE"
+    },
+    "sen.iraja@senado.leg.br": {
+        "nome": "Iraj\u00e1",
+        "nome_completo": "Iraj\u00e1 Silvestre Filho",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "TO"
+    },
+    "sen.ireneuorth@senado.leg.br": {
+        "nome": "Ireneu Orth",
+        "nome_completo": "Ireneu Orth",
+        "genero": "masculino",
+        "partido": "PP",
+        "uf": "RS"
+    },
+    "sen.ivetedasilveira@senado.leg.br": {
+        "nome": "Ivete da Silveira",
+        "nome_completo": "Ivete Marli Appel da Silveira",
+        "genero": "feminino",
+        "partido": "MDB",
+        "uf": "SC"
+    },
+    "sen.izalcilucas@senado.leg.br": {
+        "nome": "Izalci Lucas",
+        "nome_completo": "Izalci Lucas Ferreira",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "DF"
+    },
+    "sen.jaderbarbalho@senado.leg.br": {
+        "nome": "Jader Barbalho",
+        "nome_completo": "Jader Fontenelle Barbalho",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "PA"
+    },
+    "sen.jaimebagattoli@senado.leg.br": {
+        "nome": "Jaime Bagattoli",
+        "nome_completo": "Jaime Maximino Bagattoli",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RO"
+    },
+    "sen.janainafarias@senado.leg.br": {
+        "nome": "Jana\u00edna Farias",
+        "nome_completo": "Janaina Carla Farias",
+        "genero": "feminino",
+        "partido": "PT",
+        "uf": "CE"
+    },
+    "sen.jaqueswagner@senado.leg.br": {
+        "nome": "Jaques Wagner",
+        "nome_completo": "Jaques Wagner",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "BA"
+    },
+    "sen.jaymecampos@senado.leg.br": {
+        "nome": "Jayme Campos",
+        "nome_completo": "Jayme Ver\u00edssimo de Campos",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "MT"
+    },
+    "sen.jorgekajuru@senado.leg.br": {
+        "nome": "Jorge Kajuru",
+        "nome_completo": "Jorge Kajuru Reis da Costa Nasser",
+        "genero": "masculino",
+        "partido": "PSB",
+        "uf": "GO"
+    },
+    "sen.jorgeseif@senado.leg.br": {
+        "nome": "Jorge Seif",
+        "nome_completo": "Jorge Seif J\u00fanior",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "SC"
+    },
+    "sen.jussaralima@senado.leg.br": {
+        "nome": "Jussara Lima",
+        "nome_completo": "Ant\u00f4nia Jussara Gomes Alves Sousa Lima",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "PI"
+    },
+    "sen.laerciooliveira@senado.leg.br": {
+        "nome": "La\u00e9rcio Oliveira",
+        "nome_completo": "La\u00e9rcio Jos\u00e9 de Oliveira",
+        "genero": "masculino",
+        "partido": "PP",
+        "uf": "SE"
+    },
+    "sen.leilabarros@senado.leg.br": {
+        "nome": "Leila Barros",
+        "nome_completo": "Leila Gomes de Barros R\u00eago",
+        "genero": "feminino",
+        "partido": "PDT",
+        "uf": "DF"
+    },
+    "sen.lucasbarreto@senado.leg.br": {
+        "nome": "Lucas Barreto",
+        "nome_completo": "Luiz Cantu\u00e1ria Barreto",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "AP"
+    },
+    "sen.magnomalta@senado.leg.br": {
+        "nome": "Magno Malta",
+        "nome_completo": "Magno Pereira Malta",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "ES"
+    },
+    "sen.maragabrilli@senado.leg.br": {
+        "nome": "Mara Gabrilli",
+        "nome_completo": "Mara Cristina Gabrilli",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "SP"
+    },
+    "sen.marcelocastro@senado.leg.br": {
+        "nome": "Marcelo Castro",
+        "nome_completo": "Marcelo Costa e Castro",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "PI"
+    },
+    "sen.marciobittar@senado.leg.br": {
+        "nome": "Marcio Bittar",
+        "nome_completo": "Marcio Miguel Bittar",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "AC"
+    },
+    "sen.marcosrogerio@senado.leg.br": {
+        "nome": "Marcos Rog\u00e9rio",
+        "nome_completo": "Marcos Rog\u00e9rio da Silva Brito",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RO"
+    },
+    "sen.marcosdoval@senado.leg.br": {
+        "nome": "Marcos do Val",
+        "nome_completo": "Marcos Ribeiro do Val",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "ES"
+    },
+    "sen.margarethbuzetti@senado.leg.br": {
+        "nome": "Margareth Buzetti",
+        "nome_completo": "Margareth Gettert Busetti",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "MT"
+    },
+    "sen.meciasdejesus@senado.leg.br": {
+        "nome": "Mecias de Jesus",
+        "nome_completo": "Ant\u00f4nio Mecias Pereira de Jesus",
+        "genero": "masculino",
+        "partido": "REPUBLICANOS",
+        "uf": "RR"
+    },
+    "sen.nelsinhotrad@senado.leg.br": {
+        "nome": "Nelsinho Trad",
+        "nome_completo": "Nelson Trad Filho",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "MS"
+    },
+    "sen.omaraziz@senado.leg.br": {
+        "nome": "Omar Aziz",
+        "nome_completo": "Omar Jos\u00e9 Abdel Aziz",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "AM"
+    },
+    "sen.oriovistoguimaraes@senado.leg.br": {
+        "nome": "Oriovisto Guimar\u00e3es",
+        "nome_completo": "Oriovisto Guimaraes",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "PR"
+    },
+    "sen.ottoalencar@senado.leg.br": {
+        "nome": "Otto Alencar",
+        "nome_completo": "Otto Roberto Mendon\u00e7a de Alencar",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "BA"
+    },
+    "sen.paulopaim@senado.leg.br": {
+        "nome": "Paulo Paim",
+        "nome_completo": "Paulo Renato Paim",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "RS"
+    },
+    "sen.pliniovalerio@senado.leg.br": {
+        "nome": "Pl\u00ednio Val\u00e9rio",
+        "nome_completo": "Francisco Pl\u00ednio Val\u00e9rio Tomaz",
+        "genero": "masculino",
+        "partido": "PSDB",
+        "uf": "AM"
+    },
+    "sen.professoradorinhaseabra@senado.leg.br": {
+        "nome": "Professora Dorinha Seabra",
+        "nome_completo": "Maria Auxiliadora Seabra Rezende",
+        "genero": "feminino",
+        "partido": "UNI\u00c3O",
+        "uf": "TO"
+    },
+    "sen.randolferodrigues@senado.leg.br": {
+        "nome": "Randolfe Rodrigues",
+        "nome_completo": "Randolph Frederich Rodrigues Alves",
+        "genero": "masculino",
+        "partido": "S\/Partido",
+        "uf": "AP"
+    },
+    "sen.renancalheiros@senado.leg.br": {
+        "nome": "Renan Calheiros",
+        "nome_completo": "Jos\u00e9 Renan Vasconcelos Calheiros",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "AL"
+    },
+    "sen.rodrigocunha@senado.leg.br": {
+        "nome": "Rodrigo Cunha",
+        "nome_completo": "Rodrigo Santos Cunha",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "AL"
+    },
+    "sen.rodrigopacheco@senado.leg.br": {
+        "nome": "Rodrigo Pacheco",
+        "nome_completo": "Rodrigo Otavio Soares Pacheco",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "MG"
+    },
+    "sen.rogeriomarinho@senado.leg.br": {
+        "nome": "Rogerio Marinho",
+        "nome_completo": "Rog\u00e9rio Simonetti Marinho",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RN"
+    },
+    "sen.rogeriocarvalho@senado.leg.br": {
+        "nome": "Rog\u00e9rio Carvalho",
+        "nome_completo": "Rog\u00e9rio Carvalho Santos",
+        "genero": "masculino",
+        "partido": "PT",
+        "uf": "SE"
+    },
+    "sen.romario@senado.leg.br": {
+        "nome": "Rom\u00e1rio",
+        "nome_completo": "Romario de Souza Faria",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "RJ"
+    },
+    "sen.sergiomoro@senado.leg.br": {
+        "nome": "Sergio Moro",
+        "nome_completo": "Sergio Fernando Moro",
+        "genero": "masculino",
+        "partido": "UNI\u00c3O",
+        "uf": "PR"
+    },
+    "sen.sorayathronicke@senado.leg.br": {
+        "nome": "Soraya Thronicke",
+        "nome_completo": "Soraya Vieira Thronicke",
+        "genero": "feminino",
+        "partido": "PODEMOS",
+        "uf": "MS"
+    },
+    "sen.styvensonvalentim@senado.leg.br": {
+        "nome": "Styvenson Valentim",
+        "nome_completo": "Eann Styvenson Valentim Mendes",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "RN"
+    },
+    "sen.sergiopetecao@senado.leg.br": {
+        "nome": "S\u00e9rgio Petec\u00e3o",
+        "nome_completo": "S\u00e9rgio de Oliveira Cunha",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "AC"
+    },
+    "sen.teresaleitao@senado.leg.br": {
+        "nome": "Teresa Leit\u00e3o",
+        "nome_completo": "Maria Teresa Leit\u00e3o de Melo",
+        "genero": "feminino",
+        "partido": "PT",
+        "uf": "PE"
+    },
+    "sen.terezacristina@senado.leg.br": {
+        "nome": "Tereza Cristina",
+        "nome_completo": "Tereza Cristina Correa da Costa Dias",
+        "genero": "feminino",
+        "partido": "PP",
+        "uf": "MS"
+    },
+    "sen.vanderlancardoso@senado.leg.br": {
+        "nome": "Vanderlan Cardoso",
+        "nome_completo": "Vanderlan Vieira Cardoso",
+        "genero": "masculino",
+        "partido": "PSD",
+        "uf": "GO"
+    },
+    "sen.venezianovitaldorego@senado.leg.br": {
+        "nome": "Veneziano Vital do R\u00eago",
+        "nome_completo": "Veneziano Vital do R\u00eago Segundo Neto",
+        "genero": "masculino",
+        "partido": "MDB",
+        "uf": "PB"
+    },
+    "sen.wevertonrocha@senado.leg.br": {
+        "nome": "Weverton",
+        "nome_completo": "Weverton Rocha Marques de Sousa",
+        "genero": "masculino",
+        "partido": "PDT",
+        "uf": "MA"
+    },
+    "sen.wildermorais@senado.leg.br": {
+        "nome": "Wilder Morais",
+        "nome_completo": "Wilder Pedro de Morais",
+        "genero": "masculino",
+        "partido": "PL",
+        "uf": "GO"
+    },
+    "sen.zenaidemaia@senado.leg.br": {
+        "nome": "Zenaide Maia",
+        "nome_completo": "Zenaide Maia Calado Pereira dos Santos",
+        "genero": "feminino",
+        "partido": "PSD",
+        "uf": "RN"
+    },
+    "sen.zequinhamarinho@senado.leg.br": {
+        "nome": "Zequinha Marinho",
+        "nome_completo": "Jos\u00e9 da Cruz Marinho",
+        "genero": "masculino",
+        "partido": "PODEMOS",
+        "uf": "PA"
+    }
+}
